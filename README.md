@@ -1,3 +1,3 @@
 # huntweb
 
-## Mini curso de React JS da Rocketseat :rocket:
+## Minicurso de React JS da Rocketseat :rocket:
